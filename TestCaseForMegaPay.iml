@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://C:/AppiumAutomation/Appium Lib" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://C:/AppiumAutomation/Appium Lib/MonteMediaCC/dist/javadoc" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://C:/AppiumAutomation/Appium Lib" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/apache-maven/src/test/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-artifact/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-artifact/src/test/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-builder-support/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-builder-support/src/test/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-compat/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-compat/src/test/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-core/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-core/src/test/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-core/src/test/projects/lifecycle-executor/project-with-additional-lifecycle-elements/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-core/src/test/projects/lifecycle-executor/project-with-additional-lifecycle-elements/src/test/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/examples/simple-project/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/examples/simple-project/src/test/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/embedder-test-project/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/embedder-test-project/src/test/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/aggregate-mojo-failure/plugin/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/bad-build-plan/plugin/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/bad-ext-plugin-dep-ver/plugin/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/bad-ext-plugin-maven-ver/plugin/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/config-rdonly-mojo-param/plugin/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/duplicated-attachments/plugin/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/err-resolving-project-dep/project/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/err-resolving-project-dep/project/src/test/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/ext-plugin-realm-error/plugin/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/ext-plugin-version-err/plugin/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/ext-realm-error/ext/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/missing-direct-invoke-mojo/plugin/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/missing-module-pom/child1/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/missing-module-pom/child1/src/test/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/missing-req-mojo-param/plugin/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/mojo-config-error/plugin/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/mojo-exec-err/plugin/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/mojo-lookup-err/plugin/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/profile-activator-lookup-err/ext/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/project-dep-missing/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/project-dep-missing/src/test/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/project-mojo-failure/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/error-reporting-projects/project-mojo-failure/src/test/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/projects/isolated-project-getting-parent-pom/project/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-embedder/src/test/projects/isolated-project-getting-parent-pom/project/src/test/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-model-builder/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-model-builder/src/test/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-model/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-model/src/test/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-plugin-api/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-plugin-api/src/test/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-resolver-provider/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-resolver-provider/src/test/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-settings-builder/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-settings-builder/src/test/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-settings/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MAVEN/apache-maven-3.6.2/maven-slf4j-provider/src/main/java" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MonteMediaCC/src/main" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/MonteMediaCC/src/main.jmf" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/core/src" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/core/test" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/examples/src" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/assistedinject/src" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/assistedinject/test" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/dagger-adapter/src" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/dagger-adapter/test" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/grapher/src" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/grapher/test" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/jmx/src" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/jmx/test" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/jndi/src" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/mini/src" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/mini/test" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/persist/src" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/persist/test" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/service/src" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/service/test" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/servlet/src" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/servlet/test" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/spring/src" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/spring/test" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/struts2/example/src" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/struts2/src" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/struts2/test" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/testlib/src" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/testlib/test" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/throwingproviders/src" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/extensions/throwingproviders/test" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/jdk8-tests/test" />
+          <root url="file://C:/AppiumAutomation/Appium Lib/guice-master/guice-master/lib/build/jdiff" />
+        </SOURCES>
+        <jarDirectory url="file://C:/AppiumAutomation/Appium Lib" recursive="false" />
+        <jarDirectory url="file://C:/AppiumAutomation/Appium Lib" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
